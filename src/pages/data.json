@@ -1,0 +1,26 @@
+[
+    {
+        "id" : "1" ,
+        "name" : "Cloud Computing",
+        "description" : "Cloud computing is the on-demand access of computing resources—physical servers or virtual servers, data storage, networking capabilities, application development tools, software, AI-powered analytic tools and more—over the internet with pay-per-use pricing.",
+        "image" :  "https://miro.medium.com/v2/resize:fit:640/1*ngkHgQq7ij1NBNr62er3zA.png"
+    },
+    {
+        "id" : "2" ,
+        "name" : "Machine Learning",
+        "description" : "Machine learning (ML) is a branch of artificial intelligence (AI) and computer science that focuses on the using data and algorithms to enable AI to imitate the way that humans learn, gradually improving its accuracy.",
+        "image" :  "https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg"
+    },
+    {
+        "id" : "3" ,
+        "name" : "Full Stack Devlopment",
+        "description" : "Full Stack Development refers to the development of both front end(client side) and back end(server side) portions of web application",
+        "image" :  "https://miro.medium.com/v2/resize:fit:1400/0*cl7fc6pt1MHjIF4K.png"
+    },
+    {
+        "id" : "4" ,
+        "name" : "Cyber Security",
+        "description" : "Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing, and can be divided into a few common categories.",
+        "image" :  "https://www.neit.edu/wp-content/uploads/2022/10/Cyber-Security-Icon-Concept-2-1.jpeg"
+    }
+]
